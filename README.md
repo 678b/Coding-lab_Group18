@@ -70,7 +70,7 @@ Coding-lab_Group18/
 
 Setup Instructions
 1. Clone the Repository
-git clone https://github.com/<your-username>/Coding-lab_Group18.git
+git clone https://github.com/678b/Coding-lab_Group18.git
 cd Coding-lab_Group18
 
 2. Start the Device Simulators
@@ -133,22 +133,6 @@ Analysis Performed
 Appends results to:
 
  reports/analysis_report.txt
-●	
-________________________________________
-Sample Analysis Report Output
-======================================
-Heart Rate Analysis
-Date: Tue Jun 18 15:22:10 UTC 2024
-Log file: heart_rate.log
---------------------------------------
-Device statistics:
- 120 HR_Device_1
- 115 HR_Device_2
---------------------------------------
-First entry timestamp:
-2024-06-18T14:00:01
-Last entry timestamp:
-2024-06-18T15:22:09
 
 ________________________________________
 Linux Tools Used
