@@ -170,7 +170,7 @@ Group 18 — Coding Lab
 
 ●	Clovis INDOHA (github username: cindoha-hash) ( Task 2: Reporting)
 
-●	Kevin Iradukunda (github username: kiradukund) (README.md)
+●	Kevin Iradukunda cyusa (github username: kiradukund) (README.md)
  
 
 ________________________________________
